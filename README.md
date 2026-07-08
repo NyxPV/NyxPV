@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/nyx-profile.jpg" 
+<img src="https://raw.githubusercontent.com/NyxPV/NyxPV/main/assets/nyx-profile.jpg" 
      alt="𝓝𝔂𝔁" 
      width="100%" 
      style="border-radius: 16px; border: 3px solid #4b0082; box-shadow: 0 0 40px rgba(139, 0, 139, 0.6);">
